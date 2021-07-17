@@ -1,0 +1,7 @@
+organization=david191510
+projectKey=David191510_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=David191510_ProyectoJavaMaven
+ceTaskId=AXq2HOQYIMQ8WWJBCtiD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXq2HOQYIMQ8WWJBCtiD
